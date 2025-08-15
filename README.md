@@ -1,0 +1,3 @@
+first of all designing the UI Parts..
+<br>
+The Components used are as follow...
